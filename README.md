@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
+- 🔭 I’m a Student Software Engineer from wuhan China.
+- 👯 I write about technologies that interest me in [My Blog](https://doc.leapsss.tech).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
@@ -71,15 +71,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
    - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
  
 <br></details>
+
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
-<p align="center">
-    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
-    &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
-    &nbsp;&nbsp;
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
-    &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
-</p>
 <img src="https://imgur.com/rilHVxA.png"/>

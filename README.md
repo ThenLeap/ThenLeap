@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 ## Jony (Him/He) 🌻
 - 🔭 I’m a Software Engineer from wuhan China.
 - 👯 I write about technologies that interest me in [My Blog](https://blog.leapsss.tech).
